@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ReDzinDev
-- 👀 I’m interested in Discord Bot Development!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any discord project!
-- 📫 How to reach me : Send an email to redzincm@gmail.com or DM my discord account `redzincm`
+- Community Manager | Discord Security Specialist | Web3 Consultant
+- Building safer, smarter communities across web3.
+- Companies: Boring Security, MOIC Digital
+- Member: Server Forge
+- Based in Brazil
+  
+redzincm@gmail.com | https://redzin.netlify.app | everywhere `redzincm`
 
 <!---
 ReDzinDev/ReDzinDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

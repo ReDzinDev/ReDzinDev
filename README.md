@@ -1,6 +1,6 @@
 - Community Manager | Discord Security Specialist | Web3 Consultant
 - Building safer, smarter communities across web3.
-- Companies: Boring Security, MOIC Digital
+- Companies: Boring Security, CoUnity
 - Member: Server Forge
 - Based in Brazil
   
